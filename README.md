@@ -21,7 +21,7 @@ This project focuses on semantic HTML, accessibility basics, responsive layouts,
 
 ## Live Demo
 
-- Live Site: [https://your-live-site-url.com](https://juansanchezzzzz.github.io/Blog-Preview-Card-Solution/)
+- Live Site: [live site using github pages](https://juansanchezzzzz.github.io/Blog-Preview-Card-Solution/)
 - Frontend Mentor Challenge: https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS
 
 ---
